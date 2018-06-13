@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1085830370007",
+    "firebase_url": "https://recro-task-2.firebaseio.com",
+    "project_id": "recro-task-2",
+    "storage_bucket": "recro-task-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085830370007:android:af6d0d81726fc474",
+        "android_client_info": {
+          "package_name": "com.amangarg.recrotask2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085830370007-l02uf4e5al8v7j4op5fho1nqju1cve3h.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1085830370007-l02uf4e5al8v7j4op5fho1nqju1cve3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAyg5FkpIl3-IlJ8pEmzAmVuKJ4y614qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
